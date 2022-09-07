@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This project is a web application created using React that allows a user to search for restaurants based on key terms and location while allowing the user to sort the results in different ways. It uses the yelp-api to fetch the restaurants' data and then displays it to the user.
+
+### For full functionality, click [here](https://cors-anywhere.herokuapp.com/corsdemo) and click the button that says "Request temporary access to the demo server"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
